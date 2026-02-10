@@ -52,27 +52,27 @@ To develop a **student attentiveness detection system** that:
 
 ## Project Structure
 
-project-root/
-│
-├── master_controller_gui.py # Main GUI controller
-│
-├── utils/
-│ ├── __pycache__ # stores Python’s temporary compiled files
-│ ├── activity_logger.py # CSV logging
-│ ├── ai_feedback.py # TTS voice feedback
-│ ├── eye_tracking.py # EAR-based drowsiness detection
-│ ├── yawn_detection.py # MAR-based yawning detection
-│ ├── head_turn.py # Head movement monitoring
-│ ├── multiple_faces.py # Multi-face detection
-│ ├── emergency_wakeup.py # Flash + siren trigger logic
-│ ├── face_presence.py # Active/inactive state logic
-│
-├── .gitignore # tells Git to skip tracking such unnecessary files
-├── tutorial.mp4 # Full demo of the project
-├── requirements.txt # All required libraries
-├── README.md # Detailed report
-│
-└── attentiveness_log.csv # Timestamped event log
+project-root/<br>
+│<br>
+├── master_controller_gui.py # Main GUI controller<br>
+│<br>
+├── utils/<br>
+│ ├── __pycache__ # stores Python’s temporary compiled files<br>
+│ ├── activity_logger.py # CSV logging<br>
+│ ├── ai_feedback.py # TTS voice feedback<br>
+│ ├── eye_tracking.py # EAR-based drowsiness detection<br>
+│ ├── yawn_detection.py # MAR-based yawning detection<br>
+│ ├── head_turn.py # Head movement monitoring<br>
+│ ├── multiple_faces.py # Multi-face detection<br>
+│ ├── emergency_wakeup.py # Flash + siren trigger logic<br>
+│ ├── face_presence.py # Active/inactive state logic<br>
+│<br>
+├── .gitignore # tells Git to skip tracking such unnecessary files<br>
+├── tutorial.mp4 # Full demo of the project<br>
+├── requirements.txt # All required libraries<br>
+├── README.md # Detailed report<br>
+│<br>
+└── attentiveness_log.csv # Timestamped event log<br>
 
 ---
 
