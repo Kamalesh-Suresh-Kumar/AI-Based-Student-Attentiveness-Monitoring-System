@@ -111,15 +111,9 @@ If you'd like to see more cool projects, connect, or collaborate:
 <a href="https://github.com/Kamalesh-Suresh-Kumar">
 <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/kamalesh-suresh-kumar">
 <img src="https://img.shields.io/badge/LinkedIn-Visit%20My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
-
 <a href="https://discordapp.com/users/1256675555294838998">
 <img src="https://img.shields.io/badge/Discord-Visit%20My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
