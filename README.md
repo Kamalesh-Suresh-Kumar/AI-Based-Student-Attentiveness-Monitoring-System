@@ -122,5 +122,7 @@ If you'd like to see more cool projects, connect, or collaborate:
 
 </p>
 
-Let’s keep innovating, one line of code at a time.  
+> Let’s keep innovating, one line of code at a time.
+
+**Author**<br/>
 **– Kamalesh S P**
