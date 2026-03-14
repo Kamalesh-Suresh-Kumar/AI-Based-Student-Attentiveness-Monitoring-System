@@ -84,10 +84,12 @@ project-root/<br/>
 
 ---
 
-## Install required packages:
-
-See [`requirements.txt`](./requirements.txt) and install it.<br/>
-Then run **"python master_controller_gui.py"**<br/>
+## step to Install required packages and run the project:
+1. Run **"python -m venv venv"**<br/>
+2. Activate venv by **"venv\Scripts\activate"**<br/>
+3. See [`requirements.txt`](./requirements.txt) and To install those dependencies, run: **"pip install -r requirements.txt"**.<br/>
+4. Then run **"python master_controller_gui.py"**<br/>
+5. To exit the venv run: **"deactivate"**<br/>
 
 ## Acknowledgements
 > **Retech Solutions Pvt Ltd – For the internship opportunity and guidance(https://www.retechsolutions.in)**
