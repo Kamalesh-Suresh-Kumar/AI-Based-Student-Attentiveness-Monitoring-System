@@ -1,6 +1,5 @@
 # This file lists the Python dependencies for the project.
 
-tensorflow==2.13.0
 mediapipe==0.10.14
 numpy==2.4.3
 opencv_contrib_python==4.13.0.92
